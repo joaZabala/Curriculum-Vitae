@@ -20,7 +20,7 @@ Estudiante avanzado de Programación próximo a graduarse, con sólidos conocimi
 
 ## Experiencia Laboral
 
-### Bromu Software SAS | Desarrollador FullStack
+### Bromus Software SAS | Desarrollador FullStack
 *Abril 2024 - Mayo 2024*
 - Desarrollé soluciones industriales utilizando un stack tecnológico moderno
 - Implementé aplicaciones con Angular en Frontend y .NET 6 en Backend
